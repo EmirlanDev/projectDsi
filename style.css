@@ -51,3 +51,7 @@ header {
 }
 
 /*! HEADER */
+
+.hero p {
+  color: red;
+}
